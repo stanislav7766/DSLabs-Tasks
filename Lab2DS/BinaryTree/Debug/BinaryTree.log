@@ -1,0 +1,6 @@
+﻿  Source.cpp
+d:\labs\ds\tasks_c++\binarytree\binarytree\problems.h(350): warning C4018: <: несоответствие типов со знаком и без знака
+d:\labs\ds\tasks_c++\binarytree\binarytree\source.cpp(11): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+d:\labs\ds\tasks_c++\binarytree\binarytree\source.cpp(12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+d:\labs\ds\tasks_c++\binarytree\binarytree\source.cpp(33): error C2039: Problems5: не является членом "BinaryTree<int>"
+  d:\labs\ds\tasks_c++\binarytree\binarytree\source.cpp(14): note:  см. объявление "BinaryTree<int>"
